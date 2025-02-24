@@ -2,8 +2,6 @@
 
 This document explains the project 4 BIST implementation. 
 
-Code Repository: https://github.com/li-yong/VLSI_Testing_f24/
-
 # Terminology
 ```
 LFSR : Linear-Feedback Shift Register
